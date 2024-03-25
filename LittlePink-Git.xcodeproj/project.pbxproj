@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BA50C9A82BB17E8300D3987F /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = BA50C9A72BB17E8300D3987F /* README.md */; };
 		BAB487232BB15EFF00F5AA61 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAB487222BB15EFF00F5AA61 /* AppDelegate.swift */; };
 		BAB487252BB15EFF00F5AA61 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAB487242BB15EFF00F5AA61 /* SceneDelegate.swift */; };
 		BAB487272BB15EFF00F5AA61 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAB487262BB15EFF00F5AA61 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BA50C9A72BB17E8300D3987F /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../../../Downloads/README.md; sourceTree = "<group>"; };
 		BAB4871F2BB15EFF00F5AA61 /* LittlePink-Git.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "LittlePink-Git.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BAB487222BB15EFF00F5AA61 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BAB487242BB15EFF00F5AA61 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -42,6 +44,7 @@
 		BAB487162BB15EFF00F5AA61 = {
 			isa = PBXGroup;
 			children = (
+				BA50C9A72BB17E8300D3987F /* README.md */,
 				BAB487362BB1666900F5AA61 /* .gitignore */,
 				BAB487212BB15EFF00F5AA61 /* LittlePink-Git */,
 				BAB487202BB15EFF00F5AA61 /* Products */,
@@ -130,6 +133,7 @@
 			files = (
 				BAB487372BB1666900F5AA61 /* .gitignore in Resources */,
 				BAB4872F2BB15F0100F5AA61 /* LaunchScreen.storyboard in Resources */,
+				BA50C9A82BB17E8300D3987F /* README.md in Resources */,
 				BAB4872C2BB15F0100F5AA61 /* Assets.xcassets in Resources */,
 				BAB4872A2BB15EFF00F5AA61 /* Main.storyboard in Resources */,
 			);
