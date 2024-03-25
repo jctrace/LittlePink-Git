@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         print("做了UI")
         print("做了UI")
         print("做了UI")
+        print("做了UI")
     }
 
 
